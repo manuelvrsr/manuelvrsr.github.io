@@ -1,6 +1,6 @@
-# Portfolio
+# password-generator
 
-For this project, i made a website to display my projects for employers to see.
+for this project, I edited some existing code in order to make a password generator.
 ## Getting Started
 
 Open the HTML file on your local web browser.
@@ -14,6 +14,10 @@ Open the HTML file on your local web browser.
 * [HTML]
 * [CSS]
 * [Github]
+
+## Code Snippet  
+
+![code snippet] (./Assets/snippet.png) 
 
 ## Deployed Link
 
