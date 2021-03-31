@@ -1,6 +1,5 @@
-# password-generator
-
-for this project, I edited some existing code in order to make a password generator.
+# CodeQuiz
+for this project i made a coding quiz that has features like : reduces time if you select incorrect answer, increses score for every question you get right, and records those scores on the leaderboard.
 ## Getting Started
 
 Open the HTML file on your local web browser.
@@ -13,11 +12,8 @@ Open the HTML file on your local web browser.
 
 * [HTML]
 * [CSS]
+* [JavaScript]
 * [Github]
-
-## Code Snippet  
-
-![code snippet] (./Assets/snippet.png) 
 
 ## Deployed Link
 
