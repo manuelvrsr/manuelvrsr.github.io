@@ -1,5 +1,5 @@
-# CodeQuiz
-for this project i made a coding quiz that has features like : reduces time if you select incorrect answer, increses score for every question you get right, and records those scores on the leaderboard.
+# Schedule
+For this project ill be making functional planner that displays past hours, current hours, and future hours. the user will be able to type what event they want in their planner and save that event locally.
 ## Getting Started
 
 Open the HTML file on your local web browser.
