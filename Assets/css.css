@@ -1,0 +1,15 @@
+.header {
+    background-color: lightslategray;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+.days {
+    background-color: lightskyblue;
+    height: 170px;
+    margin: 30px;
+}
+.todayRow {
+    height: 140px;
+    text-align: center;
+}
